@@ -1,0 +1,7 @@
+# Dependencies
+.venv/
+
+# Data files
+*.txt
+data/raw/.complete/
+*.csv
